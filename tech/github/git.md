@@ -1,0 +1,1 @@
+the main functionality of git is version controle and track the changes in your project
